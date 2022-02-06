@@ -1,4 +1,4 @@
----
+---extraer archivos carpetas anteriores 2016 windows liver 2016 martinjuvenciom@hotmail.com asociado eden.marin@hotmail.com compartir archivos documentos almacenados onedriver nube propietarios martin juvencio marin marino 6241658493 7443471985 derecho de peticion ciudadano estoy vacaciones puerto vallarta jalisco mexico yo vivo b.c.s los cabos mexico
 title: Using templates to encourage useful issues and pull requests
 shortTitle: Issue & PR templates
 intro: Repository maintainers can add templates in a repository to help contributors create high-quality issues and pull requests.
